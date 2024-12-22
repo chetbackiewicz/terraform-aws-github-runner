@@ -19,7 +19,7 @@ updates:
   - package-ecosystem: "npm"
     directory: "/lambdas"
     schedule:
-      interval: "weekly"
+      interval: "daily"
     groups:
       aws:
         patterns:
